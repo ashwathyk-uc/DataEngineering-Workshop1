@@ -17,7 +17,7 @@ Key Features of PostgreSQL:
 - The INNER JOIN
 - The LEFT OUTER JOIN
 - The RIGHT OUTER JOIN
-- The FULL OUTER JOIN
+- The FULL OUTER JOI
 ```
 
  ![Pictorial Representation of JOINS](https://i.stack.imgur.com/4zjxm.png)
